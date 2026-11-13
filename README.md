@@ -1,4 +1,4 @@
-Amazon Bestselling Books (Excel)
+# Amazon Bestselling Books (Excel)
 
 **The Data:** The dataset, sourced from ([Kaggle](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)), is built from the top-50 bestselling books on Amazon each year between 2009-2019. It contains information including the book title, author, average Amazon rating, number of Amazon reviews, price, when it was a bestseller, & the genre. The raw version of the data is available in the "orig_data" sheet in the Excel file. Since there are 50 books across 11 years, there are 550 data points.  
 By analyzing this data, valuable insights including patterns & trends can be obtained that can inform authors, publishers, & readers what book characteristics have been the most popular in recent years according to Amazon.
